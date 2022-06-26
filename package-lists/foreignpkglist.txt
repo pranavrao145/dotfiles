@@ -9,6 +9,8 @@ crunch
 docker-credential-secretservice-bin
 downgrade
 eclipse-java
+elixir-ls
+etcher-bin
 gconf
 gobuster-bin
 gotop
